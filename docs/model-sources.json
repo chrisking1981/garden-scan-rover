@@ -1,0 +1,57 @@
+[
+  {
+    "path": "models/vendor/creality/42-34.step",
+    "source": "https://raw.githubusercontent.com/Creality3DPrinting/Ender-3/88c7758cea9d0d00a54fdb238bedb3b33425f409/Ender-3%20Mechanical/STP/42-34%20motor.step",
+    "sha256": "d8d7b283140715247b02e80aeab21fe4c1bc3e22edddfe074c50304ccde1e73f"
+  },
+  {
+    "path": "models/vendor/creality/42-40.step",
+    "source": "https://raw.githubusercontent.com/Creality3DPrinting/Ender-3/88c7758cea9d0d00a54fdb238bedb3b33425f409/Ender-3%20Mechanical/STP/40-42%20motor.step",
+    "sha256": "fb30f062b6184ef160a2623520dc34c56f3f75cc7be2d243e6b4d6c46440ad6e"
+  },
+  {
+    "path": "models/vendor/creality/2040-profile-original.step",
+    "source": "https://raw.githubusercontent.com/Creality3DPrinting/Ender-3/88c7758cea9d0d00a54fdb238bedb3b33425f409/Ender-3%20Mechanical/STP/2040%20profile.step",
+    "sha256": "af4ef5730cbd25dd275a5298521ea7f6a512c112d41a38be6e687e6a3a86af44"
+  },
+  {
+    "path": "models/vendor/creality/42-34.SLDPRT",
+    "source": "https://raw.githubusercontent.com/Creality3DPrinting/Ender-3/88c7758cea9d0d00a54fdb238bedb3b33425f409/Ender-3%20Mechanical/Ender-3%20Parts/42-34%20motor.SLDPRT",
+    "sha256": "9a90db7c3ceb4f402a39cc4d884147e37776fa790fe4a95ae565c215e0f4b121"
+  },
+  {
+    "path": "models/vendor/creality/42-40.SLDPRT",
+    "source": "https://raw.githubusercontent.com/Creality3DPrinting/Ender-3/88c7758cea9d0d00a54fdb238bedb3b33425f409/Ender-3%20Mechanical/Ender-3%20Parts/42-40%20motor.SLDPRT",
+    "sha256": "6989c716d1fcd4fdff6d3d9d9d8a502a8cc54670364bbaf0adb48e6a80ac78cb"
+  },
+  {
+    "path": "models/vendor/creality/2040-profile-original.SLDPRT",
+    "source": "https://raw.githubusercontent.com/Creality3DPrinting/Ender-3/88c7758cea9d0d00a54fdb238bedb3b33425f409/Ender-3%20Mechanical/Ender-3%20Parts/2040%20profile.SLDPRT",
+    "sha256": "563ebe62e07727a393125a4c484c27bda76f10fd60ec41aaf3be4bad86c14c26"
+  },
+  {
+    "path": "models/vendor/creality/LICENSE",
+    "source": "https://raw.githubusercontent.com/Creality3DPrinting/Ender-3/88c7758cea9d0d00a54fdb238bedb3b33425f409/LICENSE",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "path": "models/vendor/realsense/d435.dae",
+    "source": "https://raw.githubusercontent.com/realsenseai/realsense-ros/960306819f45006ca3f903aa046bed32c509679a/realsense2_description/meshes/d435.dae",
+    "sha256": "42f3b66f47a1f8f425a2e4dc07c1d9c283183167d8441f520a15623d98f9bf78"
+  },
+  {
+    "path": "models/vendor/realsense/_d435.urdf.xacro",
+    "source": "https://raw.githubusercontent.com/realsenseai/realsense-ros/960306819f45006ca3f903aa046bed32c509679a/realsense2_description/urdf/_d435.urdf.xacro",
+    "sha256": "ae3f57e8d38b3a6d5cc9de059e4afe545e4b895717d638b75d2ad0642cfb7f1b"
+  },
+  {
+    "path": "models/vendor/realsense/upstream-package.xml",
+    "source": "https://raw.githubusercontent.com/realsenseai/realsense-ros/960306819f45006ca3f903aa046bed32c509679a/realsense2_description/package.xml",
+    "sha256": "ae74843a0595311573d8aed16e4a513e8804979661f1ddc9d23c1460f515e1e0"
+  },
+  {
+    "path": "models/vendor/realsense/LICENSE",
+    "source": "https://raw.githubusercontent.com/realsenseai/realsense-ros/960306819f45006ca3f903aa046bed32c509679a/LICENSE",
+    "sha256": "7092398b52290edddcb41c6e2297f4c6343eb315ea6c83edfdbeea2a73adfbdb"
+  }
+]

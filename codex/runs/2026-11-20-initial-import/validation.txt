@@ -1,0 +1,5 @@
+42-40.step: valid=True, solids=1, bounds_mm=Vector(42, 64, 50.7), volume_mm3=70101.524
+42-34.step: valid=True, solids=1, bounds_mm=Vector(50.7, 42, 53.75), volume_mm3=60413.388
+2040-profile-original.step: valid=True, solids=1, bounds_mm=Vector(330.0000002, 20, 40), volume_mm3=96728.546
+D435 COLLADA parsed; external image references=[]
+All 11 source hashes match; XML parses; D435 SolidWorks download present locally.
